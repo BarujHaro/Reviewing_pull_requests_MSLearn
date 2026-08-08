@@ -1,1 +1,15 @@
 This exercise is Reviewing a pull request
+
+In this exercise we open a pull request to simulate a collaboration with its review.
+
+We use:
+
+Conversation: A log of the pull request activity, used to provide and open space for suggestions, ideas and feedback.
+
+Commits: A list of only the commits unique to the proposed branch.
+
+Checks: The results of any automations applied to the pull request using GitHub Actions. 
+
+Files Changed - A Diff view that easily shows the proposed changes in a before/after view. It also has options to add comments and reviews in context.
+one of the most useful with comments.
+
