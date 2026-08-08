@@ -13,3 +13,11 @@ Checks: The results of any automations applied to the pull request using GitHub 
 Files Changed - A Diff view that easily shows the proposed changes in a before/after view. It also has options to add comments and reviews in context.
 one of the most useful with comments.
 
+
+Step 1: Open the Pull Request: Create the pull request comparing the `update-game` branch to `main`.
+
+Step 2: Assign yourself (Assignee): Assign yourself as the person responsible for the pull request.
+
+Step 3: Leave a review (Review): Go to the "Files changed" tab and post a general comment approving the idea.
+
+Step 4: Suggest and apply a change:
