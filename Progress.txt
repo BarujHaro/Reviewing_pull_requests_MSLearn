@@ -2,7 +2,7 @@ This exercise is Reviewing a pull request
 
 In this exercise we open a pull request to simulate a collaboration with its review.
 
-We use:
+In this exercise, it was used:
 
 Conversation: A log of the pull request activity, used to provide and open space for suggestions, ideas and feedback.
 
